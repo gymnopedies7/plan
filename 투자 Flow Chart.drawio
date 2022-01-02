@@ -1,1 +1,51 @@
-<mxfile host="app.diagrams.net" modified="2022-01-02T05:50:07.558Z" agent="5.0 (iPad; CPU OS 15_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Mobile/15E148 Safari/604.1" etag="jsiLUk3xBsDc966rKLf4" version="16.1.2" type="github"><diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">7VjbctowEP0aPbbjCxjziAkkbWkmbdJm+ihsYavIlivLXPr1XWEZY8xwaUsuTHhgtEcbXfYc7W5Adj9eXAucRp95QBiyjGCB7CtkWR27C98KWBaAY7cLIBQ0KCCzAu7pb6JBQ6M5DUhWc5ScM0nTOujzJCG+rGFYCD6vu004q++a4pA0gHsfsyb6SAMZFahrdSr8htAwKnc2HX3hGJfO+iZZhAM+34DsAbL7gnNZjOJFnzAVuzIujx+Wj2w0da4/fsl+4W/ep4fb7++KxYan/Mn6CoIk8v8ubRVLzzDLdbz0XeWyDKDgeRIQtYiBbC+SMYOhCcOfRMqlJhznkgPEhYx4yBPMRpyn2m/CE6ndTGWTJOgpYsEeM+5PC2hIGdN7gKX9XbAyKfh0zZ1aYE2EcmZ4TJiH/Wm4OmifMy5gKuEJUUsFIAZ9l+pwgwr1joyt5iDjufDJHj9bSxyLkOxbzyn81Pk2dKqZuyY8JlIswUEQhiWd1cWM9ZsI134V7zDQ1J8gA7spg0Efda+Q11IDt4dcF+bVuNdCXXMFeqjXL0ELuW00AKSHet3VbAv1iikDddt7RKUInUdUkvsUryI7hzRUF9qmgCBGXshwlmn6D6jjNHZnREiy2MtHOevopKCzoqvNeZVizDJvRBvppWWcicFWg8EfkHXf3vK/vGXnyLdclrqDj1mLpRTG0W9br3THKdyrcuGTSQYH25bOesO/V1O7oaZb3hDTYT5etdyeSUyd07RkvngtOQ0tjXCcIsthEAZvLGAUqlHK8jAEscByCbKHzdwV8XicZ4fLRY1jpaAhjilT8bohbEYk9fGOooIZDWHfKx/oJmK3eGBLmoRgOZX1sBIr5N8zFptOvdis7c1qY+yoNu65qk2nwekdsFdQZxlsxe+FVXzb2iKh+9wl3z0mSb/qFPzkFb/MpodLvnlkmtbqMd7b8KkJ6OV3Ad2jesq3NuA8CrMurREoT7ihJy9n42YnMM5FsmoEeC7fOoF9nYC1qwg9aSdQJsINUr+SFFMg0xhdYh+w/Z9/y37uPqDMFHUKmIqpZRQv7MI42O7FbPN8HIBZ/cRbpMLqd3J78Ac=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-01-02T05:51:12.783Z" agent="5.0 (iPad; CPU OS 15_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Mobile/15E148 Safari/604.1" etag="J1qLl1inPW2Rz2glW1Q9" version="16.1.2" type="github">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="739" dy="635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-2" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" target="WIyWlLk6GJQsqaUBKTNV-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="이슈 중심 종목선정" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="160" y="80" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-4" value="Yes" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-6" target="WIyWlLk6GJQsqaUBKTNV-10" edge="1">
+          <mxGeometry y="20" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-5" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-6" target="WIyWlLk6GJQsqaUBKTNV-7" edge="1">
+          <mxGeometry y="10" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-6" value="Lamp&lt;br&gt;plugged in?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="170" y="170" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-7" value="Plug in lamp" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="320" y="190" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-8" value="No" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-10" target="WIyWlLk6GJQsqaUBKTNV-11" edge="1">
+          <mxGeometry x="0.3333" y="20" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-9" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-10" target="WIyWlLk6GJQsqaUBKTNV-12" edge="1">
+          <mxGeometry y="10" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-10" value="Bulb&lt;br&gt;burned out?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="170" y="290" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-11" value="Repair Lamp" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="160" y="430" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-12" value="Replace Bulb" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="320" y="310" width="120" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
